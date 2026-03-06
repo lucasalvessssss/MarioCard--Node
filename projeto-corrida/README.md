@@ -18,5 +18,3 @@
     </ul>
   </li>
 </ul>
-
-<b>Condição de vitória:</b>
